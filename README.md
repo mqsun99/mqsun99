@@ -2,9 +2,8 @@
 # Miaoqiu Sun's User Page :smiley_cat:
 Hi! Welcome to my GitHub Page! If you want to make your own page, visit [GitHub Pages](https://pages.github.com/).
 
-Section link to see my goals if you are interested: [Goals](#goals)
-
-This is the relative link to my readme file: [README.md](README.md)
+- This is ection link to see my goals if you are interested: [Goals](#goals)
+- This is the relative link to my readme file: [README.md](README.md)
 
 ## A little about myself
 
