@@ -31,14 +31,6 @@ My goals for this quarter are:
 - [ ] Study harder
 - [ ] Gain more weight (I am way too skinny)
 
-## From this lab I have learnt...
-
-Some basic Git commands may include:
-```
-git status
-git add
-git commit
-```
 
 Hope you have a nice day!
 <img src="https://thehappypuppysite.com/wp-content/uploads/2019/06/Mini-Shiba-Inu-HP-long.jpg">
