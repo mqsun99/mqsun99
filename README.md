@@ -21,8 +21,7 @@ My favorite **dog** is Shiba!!!
 
 My favorite **food** includes:
 - Hotpot, Sushi, Boba Tea
-- ~~Coffee~~ 
-  - (***Coffee makes me lose sleep***)
+- ~~Coffee~~ (Coffee makes me lose sleep)
 
 
 ### Goals
