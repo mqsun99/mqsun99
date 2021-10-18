@@ -1,33 +1,34 @@
 # mqsun99.github.io
 # Miaoqiu Sun's User Page :smiley_cat:
-Hi! Welcome to my GitHub Page! If you want to make your own page, visit [GitHub Pages](https://pages.github.com/).
+Hi! Welcome to my GitHub Page!
 
-- This is ection link to see my goals if you are interested: [Goals](#goals)
-- This is the relative link to my readme file: [README.md](README.md)
+- [Goals](#goals)
+- [Habits](#habits)
+- [README.md](README.md)
 
+> “*Get busy living or get busy dying.*” — Stephen King
+> 
 ## A little about myself
 
+### Programming Languages
+C, C++, Java, 
 ### Habits
 My favorite **dog** is Shiba!!!
-<img src="https://www.petbudget.com/wp-content/uploads/2020/04/Shiba-Inu-Cost-Calculator.jpg"  alt="Full Example"/>
 
 My favorite **music** includes:
 - Melody rap
 - R&B 
 
 My favorite **food** includes:
-- Hotpot
-- Sushi
+- Hotpot, Sushi, Boba Tea
 - ~~Coffee~~ 
   - (***Coffee makes me lose sleep***)
 
-My favorite quote is:
-> “*Get busy living or get busy dying.*” — Stephen King
 
 
 ### Goals
 My goals for this quarter are:
-- [x] Sleep earlier
+- [ ] Looking for summer internships
 - [ ] Study harder
 - [ ] Gain more weight (I am way too skinny)
 
