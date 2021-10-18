@@ -27,7 +27,7 @@ My favorite **food** includes:
 ### Goals
 My goals for this quarter are:
 - [ ] Looking for summer internships
-- [ ] Study harder
+- [x] Study harder
 - [ ] Gain more weight (I am way too skinny)
 
 
