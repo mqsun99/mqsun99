@@ -2,22 +2,25 @@
 # Miaoqiu Sun's User Page :smiley_cat:
 Hi! Welcome to my GitHub Page!
 
-- [Goals](#goals)
+
+-[]
+- [Programming Languages]
 - [Habits](#habits)
+- [Goals](#goals)
 - [README.md](README.md)
 
 > “*Get busy living or get busy dying.*” — Stephen King
 > 
 ## A little about myself
+My name is Miaoqiu Sun and I go by Shelley. I come from Suzhou, China and have studied in the U.S. since high school. I am now a senior undergraduate at UCSD with a Computer Science major. Since I just got admitted to the BS/MS CSE Program here, I am excited to continue my Master journey here at UCSD!
 
 ### Programming Languages
-C, C++, Java, 
+- C, C++, Java, Objective-C, Python
+- JavaScript，CSS/HTML，PHP，SQL
+- Nachos，Assembly，Unix/Linux，VIM commands
+
 ### Habits
 My favorite **dog** is Shiba!!!
-
-My favorite **music** includes:
-- Melody rap
-- R&B 
 
 My favorite **food** includes:
 - Hotpot, Sushi, Boba Tea
