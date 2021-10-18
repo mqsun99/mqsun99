@@ -2,7 +2,7 @@
 # Miaoqiu Sun's User Page :smiley_cat:
 Hi! Welcome to my GitHub Page!
 
-- [Programming Languages](#programminglanguages)
+- [Programming Languages](#programming-languages)
 - [Habits](#habits)
 - [Goals](#goals)
 
