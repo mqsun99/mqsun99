@@ -2,10 +2,9 @@
 # Miaoqiu Sun's User Page :smiley_cat:
 Hi! Welcome to my GitHub Page!
 
-- [Programming Languages](#programming languages)
+- [Programming Languages](#programminglanguages)
 - [Habits](#habits)
 - [Goals](#goals)
-- [README.md](README.md)
 
 > “*Get busy living or get busy dying.*” — Stephen King
 > 
