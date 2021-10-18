@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Miaoqiu Sun's User Page :smiley_cat:
+Hi! Welcome to my GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/mqsun99/mqsun99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- [Programming Languages](#programming-languages)
+- [Habits](#habits)
+- [Goals](#goals)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> “*Get busy living or get busy dying.*” — Stephen King
+> 
+## A little about myself
+My name is Miaoqiu Sun and I go by Shelley. I come from Suzhou, China and have studied in the U.S. since high school. I am now a senior undergraduate at UCSD with a Computer Science major. Since I just got admitted to the BS/MS CSE Program here, I am excited to continue my Master journey here at UCSD!
 
-### Markdown
+### Programming Languages
+- C, C++, Java, Objective-C, Python
+- JavaScript，CSS/HTML，PHP，SQL
+- Nachos，Assembly，Unix/Linux，VIM commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Habits
+My favorite **dog** is Shiba!!!
 
-```markdown
-Syntax highlighted code block
+My favorite **food** includes:
+- Hotpot, Sushi, Boba Tea
+- ~~Coffee~~ (Coffee makes me lose sleep)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Goals
+My goals for this quarter are:
+- [ ] Looking for summer internships
+- [x] Study harder
+- [ ] Gain more weight (I am way too skinny)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Hope you have a nice day!
 
-[Link](url) and ![Image](src)
-```
+<img src="https://thehappypuppysite.com/wp-content/uploads/2019/06/Mini-Shiba-Inu-HP-long.jpg">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mqsun99/mqsun99.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
