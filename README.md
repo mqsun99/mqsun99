@@ -2,9 +2,7 @@
 # Miaoqiu Sun's User Page :smiley_cat:
 Hi! Welcome to my GitHub Page!
 
-
--[]
-- [Programming Languages]
+- [Programming Languages](#programming languages)
 - [Habits](#habits)
 - [Goals](#goals)
 - [README.md](README.md)
@@ -28,7 +26,6 @@ My favorite **food** includes:
   - (***Coffee makes me lose sleep***)
 
 
-
 ### Goals
 My goals for this quarter are:
 - [ ] Looking for summer internships
@@ -37,5 +34,6 @@ My goals for this quarter are:
 
 
 Hope you have a nice day!
+
 <img src="https://thehappypuppysite.com/wp-content/uploads/2019/06/Mini-Shiba-Inu-HP-long.jpg">
 
