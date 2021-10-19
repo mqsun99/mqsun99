@@ -1,5 +1,5 @@
-# Miaoqiu Sun's User Page :smiley_cat:
-Hi! Welcome to my GitHub Page!
+# Miaoqiu Sun
+Hi! Welcome to my Page!
 
 - [Programming Languages](#programming-languages)
 - [Habits](#habits)
