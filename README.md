@@ -1,3 +1,3 @@
-# Personal Website
+# Miaoqiu Sun
 
-Website published at: https://mqsun99.github.io/
+Personal Website: https://mqsun99.github.io/
