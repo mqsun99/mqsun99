@@ -1,3 +1,3 @@
-# mqsun99.github.io
+# Personal Website
 
 Website published at: https://mqsun99.github.io/
