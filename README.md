@@ -1,7 +1,28 @@
-# Miaoqiu Sun
+# Miaoqiu Sun (Shelley) 👩‍💻
 
-Hi, I'm Miaoqiu Sun (Shelley). I'm an international student from China, currently living in the U.S. where I’m working towards a M.S. degree in Computer Science at University of California, San Diego.
+📍 San Diego, CA 92123 | ✉️ miaoqiu.sun@gmail.com | [LinkedIn](https://www.linkedin.com/in/miaoqiu-sun) | [GitHub](https://github.com/miaoqiu-sun)
 
-Feel free to get in touch with me via email, I’m always keen for a chat!
+Hello there! 👋 I'm Miaoqiu Sun (Shelley), a dedicated and creative M.S. Computer Science student at UC San Diego with a strong passion for software development. I have experience in a variety of programming languages and technologies, including Python, JavaScript, Java, and more! I'm always eager to take on new challenges and collaborate with others to deliver high-quality software solutions. 😄
 
-Email: miaoqiu.sun@gmail.com
+## 🎓 Education
+
+**University of California - San Diego** (Sep 2022 – Jun 2023, Expected)  
+M.S. in Computer Science - GPA: 3.90/4.00
+
+**University of California - San Diego** (Sep 2018 – Jun 2022)  
+B.S. in Computer Science - Major GPA: 3.84/4.00
+
+## 🔧 Skills
+
+- **Programming Languages**: Python, C/C++, JavaScript, Java, HTML5/CSS3, XML, SQL (MySQL, PostgreSQL)
+- **Developer Tools**: VS Code, Postman, Vim, Eclipse, Atom, XCode, Jupyter Notebook, Chrome DevTools
+- **DevOps**: Git/GitHub, AWS, Docker, Jenkins, JUnit, Jira, Maven, Elasticsearch/Logstash/Kibana
+- **Frameworks & Other**: Shell Script, MongoDB, Jest, Node.js, React, Bootstrap, Express, Spring Boot, Linux/Unix
+
+## 🏢 Work Experience
+
+**HelloBike** (Jun 2021 – Aug 2021)  
+*Software Development Engineer Intern (Backend)*
+
+**sMedio** (Aug 2020 – Oct 2020)  
+*Software Development Engineer Intern*
