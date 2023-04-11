@@ -7,7 +7,7 @@ Hello there! 👋 I'm Miaoqiu Sun (Shelley), a dedicated and creative M.S. Compu
 ## 🎓 Education
 
 **University of California - San Diego** (Sep 2022 – Jun 2023, Expected)  
-M.S. in Computer Science - GPA: 3.90/4.00
+M.S. in Computer Science - GPA: 3.96/4.00
 
 **University of California - San Diego** (Sep 2018 – Jun 2022)  
 B.S. in Computer Science - Major GPA: 3.84/4.00
